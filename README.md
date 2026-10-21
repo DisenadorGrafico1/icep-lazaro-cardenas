@@ -1,0 +1,11 @@
+# Universidad ICEP · Lázaro Cárdenas
+
+Tarjeta web con oferta académica, modalidades, ubicación y contacto por WhatsApp con la **Lic. Marisol Balbuena López**.
+
+Sitio estático: `index.html` y `assets/`. Se publica con GitHub Pages desde la rama `main`, carpeta raíz.
+
+- Facebook: https://www.facebook.com/ICEPlicenciaturaslzc
+- Ubicación: https://maps.app.goo.gl/jBRLPfiQJ67QwC5Z6
+- WhatsApp: +52 753 168 0638
+
+La información académica reproduce el folleto proporcionado. Para actualizar los enlaces, modifica `index.html`.
